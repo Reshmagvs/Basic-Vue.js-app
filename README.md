@@ -100,7 +100,7 @@ body {
 }
 </style>
 ```
-7.  5: Run the Vue App
+7. Run the Vue App
 Go back to the terminal and restart the server:
 
 ```
