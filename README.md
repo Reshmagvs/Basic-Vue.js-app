@@ -2,7 +2,7 @@
 
 Output:
 
-![Alt Text](https://github.com/Reshmagvs/Basic-react-app/blob/main/react_ap.png)
+![Alt Text](https://github.com/Reshmagvs/Basic-Vue.js-app/blob/main/vue_task.png)
 
 1. First, install Vue CLI globally ( write the command in vs code terminal ) :
 
